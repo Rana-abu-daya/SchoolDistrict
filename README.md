@@ -32,5 +32,21 @@ if the API Failed, get the LAN and LAT of the address to get the school district
 
 
 
+use this link to download the zip file with shp file and the others
+https://data-nces.opendata.arcgis.com/datasets/nces::school-district-boundaries-current/about
+or use this link https://geo.wa.gov/datasets/WAOSPIGIS::washington-school-districts-2024/about
+choose shapefile download option
+Click Download button to view file formats
+Look for the Shapefile and click Download
+This will download a zip file containing the shapefile and associated files
+Unzip the files into the repo directory
+Rename the files to:
+school_district_boundaries.cpg
+school_district_boundaries.dbf
+school_district_boundaries.prj
+school_district_boundaries.shp
+school_district_boundaries.shx
+school_district_boundaries.xml
+
 
 
